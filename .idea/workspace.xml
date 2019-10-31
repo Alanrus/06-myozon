@@ -9,7 +9,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="855c96b9-82c6-4c9a-90c8-8e090472bea0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -47,6 +47,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\alant\06-myozon\.idea" />
       <recent name="C:\Users\alant\06-myozon" />
     </key>
   </component>
@@ -107,7 +108,21 @@
       <option name="project" value="LOCAL" />
       <updated>1572553342863</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="gitignore fixed">
+      <created>1572553502839</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1572553502839</updated>
+    </task>
+    <task id="LOCAL-00004" summary="gitignore1 fixed">
+      <created>1572553589350</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1572553589350</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -126,7 +141,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added first version" />
     <MESSAGE value="fixes #2, fixes #3, fixes #5" />
-    <option name="LAST_COMMIT_MESSAGE" value="fixes #2, fixes #3, fixes #5" />
+    <MESSAGE value="gitignore fixed" />
+    <MESSAGE value="gitignore1 fixed" />
+    <option name="LAST_COMMIT_MESSAGE" value="gitignore1 fixed" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
 </project>
