@@ -27,8 +27,8 @@ public class Cart {
     }
 
     public void add(Lego lego, int count) {
-        for (Lego lego1 : legos) {
-            if (lego1.getId() == lego.getId()) {
+        for (Lego legoTemp : legos) {
+            if (legoTemp.getId() == lego.getId()) {
                 System.out.println("Товар уже добавлен в корзину");
                 return;
             }

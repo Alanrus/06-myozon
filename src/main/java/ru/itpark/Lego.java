@@ -6,7 +6,7 @@ public class Lego {
     private String imageUrl;
     private String type;
     private int price;
-    private int discaunt;
+    private int discount;
     private int numberStars;
     private boolean bestseller;
     private boolean available;
@@ -17,7 +17,7 @@ public class Lego {
         this.imageUrl = imageUrl;
         this.type = type;
         this.price = price;
-        this.discaunt = discaunt;
+        this.discount = discaunt;
         this.numberStars = numberStars;
         this.bestseller = bestseller;
         this.available = available;
@@ -44,7 +44,7 @@ public class Lego {
     }
 
     public int getDiscaunt() {
-        return discaunt;
+        return discount;
     }
 
     public int getNumberStars() {
@@ -80,7 +80,7 @@ public class Lego {
     }
 
     public void setDiscaunt(int discaunt) {
-        this.discaunt = discaunt;
+        this.discount = discaunt;
     }
 
     public void setNumberStars(byte numberStars) {
